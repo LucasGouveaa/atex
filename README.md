@@ -1,4 +1,8 @@
 # atex
+Gabriel Antônio
+Lucas Costa
+Lucas Gouvêa
+Pedro Guimarães
 
 A new Flutter project.
 
